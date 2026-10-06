@@ -1,0 +1,6 @@
+nomecomp = input("Insira seu nmome completo: ")
+nomesep = (nomecomp.split())
+print(f"Seu nome em maiúsculas fica: {nomecomp.upper()}")
+print(f"Seu nome em minúsculas fica: {nomecomp.lower()}")
+print(f"Seu nome completo tem: {len(nomecomp.replace(" ", ""))} letras.")
+print(f"Seu primeiro nome tem: {len(nomesep[0])} letras.")
