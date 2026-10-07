@@ -1,2 +1,2 @@
 # Python - Curso em Vídeo
-Resolucão de exercícios de Python do Curso do Gustavo Guanabara.
+Resolução dos meus exercícios de Python do Curso do Gustavo Guanabara.
